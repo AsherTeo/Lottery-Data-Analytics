@@ -12,7 +12,7 @@ The data is extracted from the official Singapore Pools [website](https://www.si
 
 Additionally, we've enhanced our analysis by building an interactive dashboard using **Power BI**. This dashboard provides a fun and engaging way for our audience to interact with the Toto data, similar to the experience of being in a casino. Inspired by casino games like roulette, where players can view statistics on red and black winning rates or the last 10 numbers, our dashboard offers dynamic visualizations and statistics on Toto draws. It allows users to explore trends, patterns, and insights in an interactive and entertaining manner.
 
-"Lastly, we also explore the predictive aspect of our analysis by attempting to forecast future Toto numbers using time series techniques such as the **ARIMA** model from the `statsmodels` library and the **LSTM** model from the `tensorflow` library. 
+Lastly, we also explore the predictive aspect of our analysis by attempting to forecast future Toto numbers using time series techniques such as the **ARIMA** model from the `statsmodels` library and the **LSTM** model from the `tensorflow` library. 
 
 ## Objective
 
