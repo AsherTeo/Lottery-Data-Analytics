@@ -39,10 +39,16 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
   <summary>Key Features</summary>
    
 - **Lottery Dataset Extraction**: Utilize `Selenium` to extract lottery data from the official Singapore Pools website. Ensure that the dataset covers a substantial period, from March 1, 2021, to February 29, 2024, providing a rich source of data for analysis.
+  
 - **Data Wrangling**: Perform data cleaning tasks such as handling missing values, replacing '-' with 0, and removing any unnecessary characters like '$'. Additionally, ensure that the data types are correctly specified for further analysis.
+  
 - **Feature Engineering**: Create new columns to enhance the dataset's analytical capabilities, including columns for:
-  - Sum, average, and standard deviation of all numbers drawn on each draw date, providing insights into the distribution of numbers.
-  - Number of occurrences of numbers within specific ranges (e.g., '1-9', '10-19', '20-29', '30-39', '40-49'), enabling analysis of number distribution patterns.-   
+  - Sum, Average, and Standard Deviation of Numbers drawn on each draw date, providing insights into the distribution of numbers.
+  - Occurrences of Numbers within Specific Ranges (e.g., '1-9', '10-19', '20-29', '30-39', '40-49'), enabling analysis of number distribution patterns.
+  - Occurrences of Repeated Numbers from Previous Draws
+  - Occurrences of Consecutive Numbers from each draw (e.g 12, 13 or 35, 36)
+ 
+     
 - **Data Analysis**: Performing in-depth analysis of the dataset to extract insights and understand the relationships between different features and loan profitability. 
 - **Feature Selection**: Employ feature selection techniques like Chi-Square and ANOVA to eliminate features with p-values exceeding 0.05.
 - **Machine Learning Model**: Experiment with various machine learning algorithms including XGBoost, LightGBM, CatBoost, and Random Forest to predict future loan eligibility based on selected features and target labels and assess the performance of each model using the F1 score to determine the best-performing model.
