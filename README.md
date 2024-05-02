@@ -63,25 +63,25 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 
 ## Exploratory Data Analysis (EDA)
 
-1) **Identify "hot" and "cold" numbers**:
+**1)** **Identify "hot" and "cold" numbers**:
    
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/e32a097d-f179-4b3f-899d-406942d9c262)
 
 The "hot" and "cold" numbers are identified from the lottery dataset spanning from 01 March 2021 to 29 February 29 2024. The top 5 hot numbers, namely **44**, **28**, **49**, **1**, and **37**, demonstrate higher occurrence frequencies, while the least 5 numbers, including **39**, **29**, **33**, **14**, and **9**, appear less frequently. It's important to note that these results may vary depending on the date range analyzed
 
-2) **Frequency of numbers from the previous draw in subsequent draws**:
+**2)** **Frequency of numbers from the previous draw in subsequent draws**:
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/7069ad0c-f1a0-4329-9c12-7991d7ee8107)
 
 Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repetitions, 20.4% have 2 repetitions, and 5% have 3 or more repetitions. This suggests that there is close to a 50% chance that one number out of the seven numbers from the previous draw will appear in the next draw, indicating a potential strategy of randomly picking one.
 
-3) **Consecutive number occurrence in winning combinations**:
+**3)** **Consecutive number occurrence in winning combinations**:
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/d245046b-d493-4ddb-aeb0-505fa998d355)
 
 53% of draws do not have any consecutive numbers, while 34% have one consecutive number, and 12.1% have two consecutive numbers. This analysis reveals that there is only a 1/3 chance that a winning combination will include one consecutive number pair (e.g., 12 and 13). 
    
-4) **Patterns of number selection**:
+**4)** **Patterns of number selection**:
 
 2-Gram:
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/1ca194c5-88cd-4188-9fd2-b545cc36c783)
@@ -93,10 +93,7 @@ The top 5 2-grams are **(23,24), (44,45), (38,41), (18,24)**, and **(28,31)**.
 
 The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **(3,7,9)**.
 
-4-Gram:
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/f453ac01-631a-4072-9f19-366b3cc64d75)
-
-The top 5 4-grams are **(19,23,24,27), (26,38,44,45), (15,22,24,26), (16,20,35,41)**, and **(11,17,21,30)**.
+**5)** **Balance of odd and even or high and low numbers**:
 
 
 
