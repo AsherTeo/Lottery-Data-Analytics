@@ -40,7 +40,7 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 - **Lottery Dataset Extraction**: Utilize `Selenium` to extract lottery data from the official Singapore Pools website. Ensure that the dataset covers a substantial period, from March 1, 2021, to February 29, 2024, providing a rich source of data for analysis.
   
 - **Data Wrangling**: Perform data cleaning tasks such as handling missing values, replacing '-' with 0, and removing any unnecessary characters like '$'. Additionally, ensure that the data types are correctly specified for further analysis.
-- 
+  
 <details>
   <summary>See more</summary
                           
