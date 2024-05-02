@@ -65,17 +65,11 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 
 1) **Identify "hot" and "cold" numbers**:
    
-   **Top 5**
-   
-   ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/a25bc713-7019-4061-ba52-94cb436039e3)
+   ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/64d9f37d-baff-484e-be5b-fd1826ef0345)
 
-   The 5 Hot numbers are 44, 28, 49, 1 and 37 from 1 March 2021 to 29 Feb 2024.
    
-   **Bottom 5**
-   
-  ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/96dcbff7-5ce7-471b-9c4d-cbe418cf2548)
 
- The 5 cold numbers are 39, 29, 33, 14 and 8 from 1 March 2021 to 29 Feb 2024.
+ 
 
 <details>
   <summary>EDA</summary>
