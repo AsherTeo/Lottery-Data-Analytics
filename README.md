@@ -65,7 +65,8 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 
 1) **Identify "hot" and "cold" numbers**:
    
-   ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/202b52a7-da84-45e1-89c1-f3722520c927)
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/022b318f-7e53-4384-922c-9640e6bb718b)
+
 
 
 
