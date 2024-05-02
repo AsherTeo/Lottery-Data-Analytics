@@ -86,6 +86,8 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 2-Gram:
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/1ca194c5-88cd-4188-9fd2-b545cc36c783)
 
+The top 5 2-grams are **(23,24), (44,45), (38,41), (18,24)**, and **(28,31)**.
+
 3_Gram:
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b9f0ca98-eac6-43b9-9042-672cfc792fa2)
 
