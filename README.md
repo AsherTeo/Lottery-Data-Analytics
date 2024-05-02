@@ -45,13 +45,14 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
   <summary>See more</summary
                           
 3) **Feature Engineering**: Create new columns to enhance the dataset's analytical capabilities, including columns for:
-  - Sum, Average, and Standard Deviation of Numbers drawn on each draw date, providing insights into the distribution of numbers.
+    Sum, Average, and Standard Deviation of Numbers drawn on each draw date, providing insights into the distribution of numbers.
     
-  - Occurrences of Numbers within Specific Ranges (e.g., '1-9', '10-19', '20-29', '30-39', '40-49'), enabling analysis of number distribution patterns.
+Occurrences of Numbers within Specific Ranges (e.g., '1-9', '10-19', '20-29', '30-39', '40-49'), enabling analysis of number distribution patterns.
     
   - Occurrences of Repeated Numbers from Previous Draws
     
   - Occurrences of Consecutive Numbers from each draw (e.g 12, 13 or 35, 36)
+  
  
 5) **Data Analysis**: For data analysis, utilize `Seaborn` to visualize number distribution, correlations, and consecutive number pairs' frequencies in winning combinations.
   
