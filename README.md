@@ -67,7 +67,7 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
    
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/e32a097d-f179-4b3f-899d-406942d9c262)
 
-
+The "hot" and "cold" numbers are identified from the lottery dataset spanning from 01 March 2021 to 29 February 29 2024. The top 5 hot numbers, namely **44**, **28**, **49**, **1**, and **37**, demonstrate higher occurrence frequencies, while the least 5 numbers, including **39**, **29**, **33**, **14**, and **9**, appear less frequently. It's important to note that these results may vary depending on the date range analyzed
 
 
 
