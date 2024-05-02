@@ -71,7 +71,7 @@ The "hot" and "cold" numbers are identified from the lottery dataset spanning fr
 
 2) **Frequency of numbers from the previous draw in subsequent draws**:
    
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/736779a3-6d18-4177-8877-d625b9418bfb)
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/c7ba6e38-29f3-467e-9091-07fd43fe2735)
 
 
 
