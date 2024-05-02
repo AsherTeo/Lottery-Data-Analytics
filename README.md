@@ -95,6 +95,7 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 **5)** **Balance of odd and even or high and low numbers**:
 
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/80b21d02-5f88-42c5-a57a-4b1c98e92b32)
 
 
 
