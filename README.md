@@ -70,9 +70,8 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 The "hot" and "cold" numbers are identified from the lottery dataset spanning from 01 March 2021 to 29 February 29 2024. The top 5 hot numbers, namely **44**, **28**, **49**, **1**, and **37**, demonstrate higher occurrence frequencies, while the least 5 numbers, including **39**, **29**, **33**, **14**, and **9**, appear less frequently. It's important to note that these results may vary depending on the date range analyzed
 
 2) **Frequency of numbers from the previous draw in subsequent draws**:
-   
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/11f47fb5-a6fc-4fd6-a460-9e2b021de223)
 
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/7069ad0c-f1a0-4329-9c12-7991d7ee8107)
 
 Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repetitions, 20.4% have 2 repetitions, and 5% have 3 or more repetitions. This suggests that there is close to a 50% chance that one number out of the seven numbers from the previous draw will appear in the next draw, indicating a potential strategy of randomly picking one.
 
