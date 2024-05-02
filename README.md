@@ -82,12 +82,14 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 53% of draws do not have any consecutive numbers, while 34% have one consecutive number, and 12.1% have two consecutive numbers. This analysis reveals that there is only a 1/3 chance that a winning combination will include one consecutive number pair (e.g., 12 and 13). 
    
 4) **Patterns of number selection**:
-   2-Gram
-   
-   ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/1ca194c5-88cd-4188-9fd2-b545cc36c783)
+
+2-Gram:
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/1ca194c5-88cd-4188-9fd2-b545cc36c783)
+
+3_Gram:
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b9f0ca98-eac6-43b9-9042-672cfc792fa2)
 
 
- 
 
 <details>
   <summary>EDA</summary>
