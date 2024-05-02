@@ -57,14 +57,11 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
   
 5) **Statics Analysis**: Additionally, we leverage scipy for statistical tests like the `t-test` and `Mann-Whitney U` test to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
 
-6) **Interactive Dashboard**: Enhancing data visualization using Power BI to create detailed and dynamic visualizations for better understanding and interpretation of results.
-
+6) **Interactive Dashboard**: The interactive Power BI dashboard facilitates analysis of hot and cold numbers, sortable by date, with hot numbers highlighted in red and cold numbers in blue for easy identification. Users can further refine their analysis by filtering for odd or even numbers and customizing the range of 10 to explore specific number pattern
 </details>
 
 ## Methodology
 
 ## Predictions
 
-### ARIMA
 
-### LSTM (Long Short-Term Memory)
