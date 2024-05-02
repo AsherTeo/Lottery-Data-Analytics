@@ -91,9 +91,12 @@ The top 5 2-grams are **(23,24), (44,45), (38,41), (18,24)**, and **(28,31)**.
 3_Gram:
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b9f0ca98-eac6-43b9-9042-672cfc792fa2)
 
+The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **(3,7,9)**.
+
 4-Gram:
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/f453ac01-631a-4072-9f19-366b3cc64d75)
 
+The top 5 4-grams are **(19,23,24,27), (26,38,44,45), (15,22,24,26), (16,20,35,41)**, and **(11,17,21,30)**.
 
 
 
