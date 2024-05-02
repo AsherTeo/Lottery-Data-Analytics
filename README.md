@@ -51,7 +51,7 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
     
   - Occurrences of Consecutive Numbers from each draw (e.g 12, 13 or 35, 36)
  
-- **Data Analysis**: Performing in-depth analysis of the dataset to extract insights and understand the relationships between different features and loan profitability.
+- **Data Analysis**: For data analysis, utilize `Seaborn` to visualize number distribution, correlations, and consecutive number pairs' frequencies in winning combinations. Additionally, leverage scipy for statistical tests like the `t-test` and `Mann-Whitney U` test to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
   
 - **Interactive Dashboard**: Enhancing data visualization using Power BI to create detailed and dynamic visualizations for better understanding and interpretation of results.
 
