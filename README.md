@@ -77,6 +77,7 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 
 3) **Consecutive number occurrence in winning combinations**:
 
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/d245046b-d493-4ddb-aeb0-505fa998d355)
 
 
    
