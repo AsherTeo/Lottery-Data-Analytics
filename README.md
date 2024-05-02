@@ -16,19 +16,23 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 
 1) **Identify "hot" and "cold" numbers**: Analyze historical data to determine which numbers have appeared most frequently (hot numbers) and least frequently (cold numbers) in past draws.
    
-3) **Frequency of numbers from the previous draw in subsequent draws**: Quantify how often numbers from the previous draw are repeated in subsequent draws, exploring any patterns or trends in their recurrence.
+2) **Frequency of numbers from the previous draw in subsequent draws**: Quantify how often numbers from the previous draw are repeated in subsequent draws, exploring any patterns or trends in their recurrence.
    
-5) **Consecutive number occurrence in winning combinations**: Investigate whether consecutive numbers, such as 12 and 13, are more or less likely to appear together in winning combinations compared to non-consecutive numbers.
+3) **Consecutive number occurrence in winning combinations**: Investigate whether consecutive numbers, such as 12 and 13, are more or less likely to appear together in winning combinations compared to non-consecutive numbers.
+<details>
+   <summary>See More</summary>  
    
-7) **Patterns of number selection**: Explore whether certain numbers tend to be selected together more frequently than others, indicating potential patterns or strategies used by players.
-8) **Balance of odd and even or high and low numbers**: Analyze the distribution of odd and even numbers, as well as high and low numbers, in winning sets to determine if there are any biases or patterns in their occurrence.
+4) **Patterns of number selection**: Explore whether certain numbers tend to be selected together more frequently than others, indicating potential patterns or strategies used by players.
+5) **Balance of odd and even or high and low numbers**: Analyze the distribution of odd and even numbers, as well as high and low numbers, in winning sets to determine if there are any biases or patterns in their occurrence.
    
-10) **Relationship between Toto values and jackpot chances**: Investigate whether specific characteristics of Toto values, such as smaller or larger sums, averages, and standard deviations, are associated with an increased likelihood of winning the jackpot.
+6) **Relationship between Toto values and jackpot chances**: Investigate whether specific characteristics of Toto values, such as smaller or larger sums, averages, and standard deviations, are associated with an increased likelihood of winning the jackpot.
     
-12) **Temporal analysis of winners**: Determine which years, months, and days of the week have historically had the highest total number of winners, identifying any temporal patterns or trends.
+7) **Temporal analysis of winners**: Determine which years, months, and days of the week have historically had the highest total number of winners, identifying any temporal patterns or trends.
     
-14) **Correlation among winning numbers**: Explore if winning numbers exhibit any correlations or tendencies to appear together more frequently than expected by chance, indicating potential patterns in number selection or drawing mechanisms.
-    
+8) **Correlation among winning numbers**: Explore if winning numbers exhibit any correlations or tendencies to appear together more frequently than expected by chance, indicating potential patterns in number selection or drawing mechanisms.
+   
+</details>
+
 ## Key Features
 
 ## Methodology
