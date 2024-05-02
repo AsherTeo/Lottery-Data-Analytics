@@ -97,8 +97,7 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/2ff3d743-bdc1-4bc5-96b4-6694d3848c4d)
 
-
-
+**6)** **Relationship between Toto values and jackpot chances**:
 
 
 
