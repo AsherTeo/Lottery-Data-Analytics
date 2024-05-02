@@ -10,6 +10,8 @@ Welcome to the lottery data analysis project focusing on Toto, a popular lottery
 
 The data is extracted from the official Singapore Pools [website](https://www.singaporepools.com.sg/en/product/Pages/toto_results.aspx) using `Selenium`, a web scraping tool. Then, we preprocess the data to extract relevant features such as winning numbers, draw dates, and additional information. We utilize **Python**, along with libraries such as `Pandas` and `Seaborn`, to conduct our analysis and gain insights from the Toto data. 
 
+Moreover, we utilize `scipy` for statistical tests like the **t-test** and **Mann-Whitney U** test. These tests allow us to compare distributions of numerical features between different groups, aiding in our exploration of whether smaller sum, average, and standard deviation of Toto values are associated with better chances of winning the jackpot.
+
 Additionally, we've enhanced our analysis by building an interactive dashboard using **Power BI**. This dashboard provides a fun and engaging way for our audience to interact with the Toto data, similar to the experience of being in a casino. Inspired by casino games like roulette, where players can view statistics on red and black winning rates or the last 10 numbers, our dashboard offers dynamic visualizations and statistics on Toto draws. It allows users to explore trends, patterns, and insights in an interactive and entertaining manner.
 
 ## Objective
