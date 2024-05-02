@@ -61,7 +61,11 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 
 </details>
 
-## Methodology
+## Exploratory Data Analysis (EDA)
+<details>
+  <summary>EDA</summary>
+   
+
 
 ## Predictions
 
