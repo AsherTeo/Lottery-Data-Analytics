@@ -38,11 +38,11 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 ## Key Features
  
 1) **Lottery Dataset Extraction**: Utilize `Selenium` to extract lottery data from the official Singapore Pools website. Ensure that the dataset covers a substantial period, from March 1, 2021, to February 29, 2024, providing a rich source of data for analysis.
-  
-2) **Data Wrangling**: Perform data cleaning tasks such as handling missing values, replacing '-' with 0, and removing any unnecessary characters like '$'. Additionally, ensure that the data types are correctly specified for further analysis.
 <details>
   <summary>See more</summary
-                          
+                      
+2) **Data Wrangling**: Perform data cleaning tasks such as handling missing values, replacing '-' with 0, and removing any unnecessary characters like '$'. Additionally, ensure that the data types are correctly specified for further analysis.
+     
 3) **Feature Engineering**: Create new columns to enhance the dataset's analytical capabilities, including columns for:
     - Sum, Average, and Standard Deviation of Numbers drawn on each draw date, providing insights into the distribution of numbers.
     
