@@ -73,7 +73,9 @@ The "hot" and "cold" numbers are identified from the lottery dataset spanning fr
    
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/17e96241-eead-49a2-9da6-d4779bc77d94)
 
+Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repetitions, 20.4% have 2 repetitions, and 5% have 3 or more repetitions. This suggests that there is close to a 50% chance that one number out of the seven numbers from the previous draw will appear in the next draw, indicating a potential strategy of randomly picking one.
 
+3) **Consecutive number occurrence in winning combinations**:
 
 
 
