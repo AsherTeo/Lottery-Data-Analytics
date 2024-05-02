@@ -90,7 +90,8 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b9f0ca98-eac6-43b9-9042-672cfc792fa2)
 
 4-Gram:
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/455cd3b1-8cdd-4adb-a70c-9b4b06648688)
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/f453ac01-631a-4072-9f19-366b3cc64d75)
+
 
 
 
