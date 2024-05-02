@@ -44,7 +44,7 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
 <details>
   <summary>See more</summary
                           
-- **Feature Engineering**: Create new columns to enhance the dataset's analytical capabilities, including columns for:
+ - **Feature Engineering**: Create new columns to enhance the dataset's analytical capabilities, including columns for:
   - Sum, Average, and Standard Deviation of Numbers drawn on each draw date, providing insights into the distribution of numbers.
     
   - Occurrences of Numbers within Specific Ranges (e.g., '1-9', '10-19', '20-29', '30-39', '40-49'), enabling analysis of number distribution patterns.
@@ -53,9 +53,9 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
     
   - Occurrences of Consecutive Numbers from each draw (e.g 12, 13 or 35, 36)
  
-- **Data Analysis**: For data analysis, utilize `Seaborn` to visualize number distribution, correlations, and consecutive number pairs' frequencies in winning combinations. Additionally, leverage scipy for statistical tests like the `t-test` and `Mann-Whitney U` test to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
+ - **Data Analysis**: For data analysis, utilize `Seaborn` to visualize number distribution, correlations, and consecutive number pairs' frequencies in winning combinations. Additionally, leverage scipy for statistical tests like the `t-test` and `Mann-Whitney U` test to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
   
-- **Interactive Dashboard**: Enhancing data visualization using Power BI to create detailed and dynamic visualizations for better understanding and interpretation of results.
+ - **Interactive Dashboard**: Enhancing data visualization using Power BI to create detailed and dynamic visualizations for better understanding and interpretation of results.
 
 </details>
 
