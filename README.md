@@ -123,9 +123,9 @@ Conversely, the t-statistic for the standard deviation of Toto values is not sta
 
 **7)** **Temporal analysis of winners**:
 
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/c1444bcd-4172-417d-889c-e8bdff11dcef)
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/8abcd009-48b2-4734-9b6b-c7287c17f9c7)
 
-In 2023, the highest jackpot amount was recorded, reaching its peak. Additionally, January witnessed the highest number of jackpot winners, with 8 individuals clinching the grand prize. Furthermore, Mondays emerged as the most favorable day for jackpot wins, with a staggering total of 22 victories occurring on this day.
+By the year 2023, there were the most occurrences of 55. In terms of months, January had the highest count, with 19 instances. Lastly, when considering individual days, Monday stood out with a total count of 76.
 
 **8)** **Correlation among winning numbers (Mann-Whitney U)**:
 
