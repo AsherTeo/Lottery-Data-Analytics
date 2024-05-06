@@ -100,6 +100,9 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/2ff3d743-bdc1-4bc5-96b4-6694d3848c4d)
 
+The distribution of odd and even numbers is approximately equal, with each occurring around 50% of the time. Similarly, there's a balanced distribution between low and high numbers.
+
+Interestingly, the probability of selecting a combination with an equal mix of odd and even numbers, such as 20-20, is slightly higher than that of other combinations, accounting for approximately 21.1% of occurrences.
    
 **6)** **Relationship between Toto values and jackpot chances**:
 
@@ -108,6 +111,8 @@ Null Hypothesis(H0): A smaller sum, average, and standard deviation (SD) of Toto
 Alternative Hypothesis (H1): A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot.
 
 **Total values vs jackpot chances**
+
+**T-Test**
 
 |                   |  p-values |  
 |-------------------|------------|
@@ -123,8 +128,29 @@ Conversely, the t-statistic for the standard deviation of Toto values is not sta
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/c1444bcd-4172-417d-889c-e8bdff11dcef)
 
+In 2023, the highest jackpot amount was recorded, reaching its peak. Additionally, January witnessed the highest number of jackpot winners, with 8 individuals clinching the grand prize. Furthermore, Mondays emerged as the most favorable day for jackpot wins, with a staggering total of 22 victories occurring on this day.
 
+8) **Correlation among winning numbers**:
 
+**Mann-Whitney U**
+
+|     Pair                              |  p-values |  
+|---------------------------------------|------------|
+| winning_number_1 - winning_number_2	 | 1.443519e-38	 |
+| winning_number_1 - winning_number_3   |  6.061689e-79	 | 
+| winning_number_1 - winning_number_4	 | 2.325769e-97  |
+| winning_number_1 - winning_number_5	 |  2.227321e-103	 |
+| winning_number_1 - winning_number_6   |  1.943792e-104	 | 
+| winning_number_2 - winning_number_3	 | 9.586902e-28  |
+| winning_number_2 - winning_number_4	 |  2.497550e-68	 |
+| winning_number_2 - winning_number_5   |  7.328101e-94	 | 
+| winning_number_2 - winning_number_6	 | 1.718066e-103  |
+| winning_number_3 - winning_number_4	 |  4.763463e-25	 |
+| winning_number_3 - winning_number_5   |  2.064400e-68	 | 
+| winning_number_3 - winning_number_6	 | 6.122888e-99  |
+| winning_number_4 - winning_number_5	 |  1.575222e-26	 |
+| winning_number_4 - winning_number_6   |  4.653366e-80	 | 
+| winning_number_5 - winning_number_6	 | 1.517861e-39  |
 
 </details>
 
