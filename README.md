@@ -124,13 +124,13 @@ The p-values for the sum and average of Toto values are both less than 0.05, ind
 
 Conversely, the t-statistic for the standard deviation of Toto values is not statistically significant, with a p-value greater than 0.05. Therefore, we cannot reject the null hypothesis, indicating that there's no notable difference in the standard deviation of Toto values between draws with and without first prize winners.
 
-7) **Temporal analysis of winners**:
+**7)** **Temporal analysis of winners**:
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/c1444bcd-4172-417d-889c-e8bdff11dcef)
 
 In 2023, the highest jackpot amount was recorded, reaching its peak. Additionally, January witnessed the highest number of jackpot winners, with 8 individuals clinching the grand prize. Furthermore, Mondays emerged as the most favorable day for jackpot wins, with a staggering total of 22 victories occurring on this day.
 
-8) **Correlation among winning numbers**:
+**8)** **Correlation among winning numbers**:
 
 **Mann-Whitney U**
 
