@@ -82,7 +82,7 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 53% of draws do not have any consecutive numbers, while 34% have one consecutive number, and 12.1% have two consecutive numbers. This analysis reveals that there is only a 1/3 chance that a winning combination will include one consecutive number pair (e.g., 12 and 13). 
 
 <details>
-  <summary>See More</summary>
+  <summary>See More 4 to 6 </summary>
 
 **4)** **Patterns of number selection**:
 
@@ -99,6 +99,7 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 **5)** **Balance of odd and even or high and low numbers**:
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/2ff3d743-bdc1-4bc5-96b4-6694d3848c4d)
+<details>
 
 **6)** **Relationship between Toto values and jackpot chances**:
 
