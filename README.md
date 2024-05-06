@@ -112,12 +112,19 @@ Alternative Hypothesis (H1): A smaller sum, average, and standard deviation (SD)
 |                   |  p-values |  
 |-------------------|------------|
 | Sum               |  0.01096054	 |
-| Average           |  01096054	 | 
+| Average           |  0.01096054	 | 
 | Standard Deviation | 0.5925751  | 
 
 The p-values for the sum and average of Toto values are both less than 0.05, indicating strong evidence to reject the null hypothesis for these variables. This suggests that a smaller sum or average of Toto values is indeed associated with an increased likelihood of winning the jackpot, supporting the alternative hypothesis.
 
 Conversely, the t-statistic for the standard deviation of Toto values is not statistically significant, with a p-value greater than 0.05. Therefore, we cannot reject the null hypothesis, indicating that there's no notable difference in the standard deviation of Toto values between draws with and without first prize winners.
+
+7) **Temporal analysis of winners**:
+
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/c1444bcd-4172-417d-889c-e8bdff11dcef)
+
+
+
 
 </details>
 
