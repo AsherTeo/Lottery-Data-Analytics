@@ -82,7 +82,7 @@ Around 45% of 1 repeated numbers appear from the previous draw, 29% show 0 repet
 53% of draws do not have any consecutive numbers, while 34% have one consecutive number, and 12.1% have two consecutive numbers. This analysis reveals that there is only a 1/3 chance that a winning combination will include one consecutive number pair (e.g., 12 and 13). 
 
 <details>
-  <summary>See More 4 to 5 </summary>
+  <summary>See More </summary>
 
 **4)** **Patterns of number selection**:
 
@@ -105,7 +105,11 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/07bbb396-8891-4db5-a71c-c842c3b5480a)
 
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/d7105617-3d9f-423b-9171-fec265739a1f)
+|                   | p-values |  
+|-------------------|-----------|
+| Sum                 | 0.01096054	 |
+| Average             | .01096054	 | 
+| Standard Deviation  |0.5925751  | 
 
 For the sum and average of Toto values, the t-statistics indicate a significant difference between draws where the first prize was won and draws where it wasn't. The p-values are less than the significance level of 0.05, suggesting that this difference is statistically significant. Therefore, we reject the null hypothesis in favor of the alternative hypothesis.
 
