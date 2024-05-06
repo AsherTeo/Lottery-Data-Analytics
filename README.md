@@ -104,15 +104,12 @@ The distribution of odd and even numbers is approximately equal, with each occur
 
 Interestingly, the probability of selecting a combination with an equal mix of odd and even numbers, such as 20-20, is slightly higher than that of other combinations, accounting for approximately 21.1% of occurrences.
    
-**6)** **Relationship between Toto values and jackpot chances**:
+**6)** **Relationship between Toto values and jackpot chances (T-Test)**:
 
 **Null Hypothesis(H0)**: A smaller sum, average, and standard deviation (SD) of Toto values do not affect the chance of winning the jackpot.
 
-**Alternative Hypothesis (H1)**: A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot.
+**Alternative Hypothesis (H1)**: A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot
 
-**Total values vs jackpot chances**
-
-**T-Test**
 
 |                   |  p-values |  
 |-------------------|------------|
@@ -130,9 +127,7 @@ Conversely, the t-statistic for the standard deviation of Toto values is not sta
 
 In 2023, the highest jackpot amount was recorded, reaching its peak. Additionally, January witnessed the highest number of jackpot winners, with 8 individuals clinching the grand prize. Furthermore, Mondays emerged as the most favorable day for jackpot wins, with a staggering total of 22 victories occurring on this day.
 
-**8)** **Correlation among winning numbers**:
-
-**Mann-Whitney U**
+**8)** **Correlation among winning numbers (Mann-Whitney U)**:
 
 **Null Hypothesis (H0)**: There is no significant difference in the distributions of winning numbers between any two pairs.
 
