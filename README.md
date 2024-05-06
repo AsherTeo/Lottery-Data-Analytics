@@ -7,7 +7,7 @@
 3) [Key Features](#key-features)
 4) [Exploratory Data Analysis ](#exploratory-data-analysis )
 5) [Installation](#installation)
-6) [Lottery Analysis Dashboard ](#lottery-analysis-dashboard )
+6) [Lottery Analysis Dashboard (Power BI)](#lottery-analysis-dashboard )
 
 ## Overview
 Welcome to the lottery data analysis project focusing on Toto, a popular lottery game in Singapore. The primary objective of this analysis is to uncover insights into the patterns and trends present in Toto draws over certain years. Specifically, we aim to identify 'hot' and 'cold' numbers, explore how often numbers from the previous draw reappear in subsequent draws and many more. 
