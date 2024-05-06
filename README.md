@@ -106,9 +106,9 @@ Interestingly, the probability of selecting a combination with an equal mix of o
    
 **6)** **Relationship between Toto values and jackpot chances**:
 
-Null Hypothesis(H0): A smaller sum, average, and standard deviation (SD) of Toto values do not affect the chance of winning the jackpot.
+**Null Hypothesis(H0)**: A smaller sum, average, and standard deviation (SD) of Toto values do not affect the chance of winning the jackpot.
 
-Alternative Hypothesis (H1): A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot.
+**Alternative Hypothesis (H1)**: A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot.
 
 **Total values vs jackpot chances**
 
@@ -134,23 +134,12 @@ In 2023, the highest jackpot amount was recorded, reaching its peak. Additionall
 
 **Mann-Whitney U**
 
-|     Pair                              |  p-values |  
-|---------------------------------------|------------|
-| winning_number_1 - winning_number_2	 | 1.443519e-38	 |
-| winning_number_1 - winning_number_3   |  6.061689e-79	 | 
-| winning_number_1 - winning_number_4	 | 2.325769e-97  |
-| winning_number_1 - winning_number_5	 |  2.227321e-103	 |
-| winning_number_1 - winning_number_6   |  1.943792e-104	 | 
-| winning_number_2 - winning_number_3	 | 9.586902e-28  |
-| winning_number_2 - winning_number_4	 |  2.497550e-68	 |
-| winning_number_2 - winning_number_5   |  7.328101e-94	 | 
-| winning_number_2 - winning_number_6	 | 1.718066e-103  |
-| winning_number_3 - winning_number_4	 |  4.763463e-25	 |
-| winning_number_3 - winning_number_5   |  2.064400e-68	 | 
-| winning_number_3 - winning_number_6	 | 6.122888e-99  |
-| winning_number_4 - winning_number_5	 |  1.575222e-26	 |
-| winning_number_4 - winning_number_6   |  4.653366e-80	 | 
-| winning_number_5 - winning_number_6	 | 1.517861e-39  |
+**Null Hypothesis (H0)**: There is no significant difference in the distributions of winning numbers between any two pairs.
+
+**Alternative Hypothesis (H1)**: There is a significant difference in the distributions of winning numbers between at least one pair.
+
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/e35289a7-7482-4e45-a0e8-876df95bb84a)
+
 
 </details>
 
