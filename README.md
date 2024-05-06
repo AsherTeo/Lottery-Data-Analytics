@@ -141,6 +141,7 @@ The heatmap indicates some correlations between pairs of winning numbers, partic
 
 ## Lottery Analysis Dashboard 
 
-![video](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/af77cde3-ed9f-4eb7-8cb8-88e12abe3edc)
+![video_1](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/94a09be0-a50d-42fb-a422-fc9be63f4d7a)
+
 
 
