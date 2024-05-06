@@ -103,7 +103,8 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
    
 **6)** **Relationship between Toto values and jackpot chances**:
 
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/07bbb396-8891-4db5-a71c-c842c3b5480a)
+Null Hypothesis(H0): A smaller sum, average, and standard deviation (SD) of Toto values do not affect the chance of winning the jackpot.\
+Alternative Hypothesis (H1): A smaller sum, average, and standard deviation (SD) of Toto values are associated with a better chance of winning the jackpot.
 
 **Total values vs jackpot chances**
 
