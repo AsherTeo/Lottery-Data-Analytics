@@ -6,6 +6,8 @@
 2) [Objective](#objective)
 3) [Key Features](#key-features)
 4) [Exploratory Data Analysis ](#exploratory-data-analysis )
+5) [Installation](#installation)
+6) [Lottery Analysis Dashboard ](#lottery-analysis-dashboard )
 
 ## Overview
 Welcome to the lottery data analysis project focusing on Toto, a popular lottery game in Singapore. The primary objective of this analysis is to uncover insights into the patterns and trends present in Toto draws over certain years. Specifically, we aim to identify 'hot' and 'cold' numbers, explore how often numbers from the previous draw reappear in subsequent draws and many more. 
@@ -138,6 +140,18 @@ January tends to have the highest number of winners due to the fact that grand p
 The heatmap indicates some correlations between pairs of winning numbers, particularly when draws are sorted from small to large. However, in live Toto draws where numbers are randomly selected, such structured arrangement does not exist, leading to less pronounced correlations. As a result, predicting or analyzing the relationships between winning numbers becomes more challenging. Thus, this correlation may not hold true for live Toto draws due to the lack of a consistent arrangement.
 
 </details>
+
+## Installation
+  
+<details>
+  <summary>Installation</summary>
+  
+The code is developed using Python version 3.10.14  If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.10.14  you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
+
+```bash
+pip install -r requirements.txt
+```
+  </details>
 
 ## Lottery Analysis Dashboard 
 
