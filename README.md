@@ -133,7 +133,7 @@ January tends to have the highest number of winners due to the fact that grand p
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b577f073-7646-479b-ac09-57b49bb73728)
 
-The heatmap indicates some correlations between pairs of winning numbers, particularly when draws are sorted from small to large. However, in live Toto draws where numbers are randomly selected, such structured arrangement does not exist, leading to less pronounced correlations. As a result, predicting or analyzing the relationships between winning numbers becomes more challenging.
+The heatmap indicates some correlations between pairs of winning numbers, particularly when draws are sorted from small to large. However, in live Toto draws where numbers are randomly selected, such structured arrangement does not exist, leading to less pronounced correlations. As a result, predicting or analyzing the relationships between winning numbers becomes more challenging. Thus, this correlation may not hold true for live Toto draws due to the lack of a consistent arrangement.
 
 </details>
 
