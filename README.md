@@ -100,15 +100,16 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/2ff3d743-bdc1-4bc5-96b4-6694d3848c4d)
 
-</details>
-
-<details>
-  <summary>See More 6 to 9 </summary>
    
 **6)** **Relationship between Toto values and jackpot chances**:
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/07bbb396-8891-4db5-a71c-c842c3b5480a)
 
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/d7105617-3d9f-423b-9171-fec265739a1f)
+
+For the sum and average of Toto values, the t-statistics indicate a significant difference between draws where the first prize was won and draws where it wasn't. The p-values are less than the significance level of 0.05, suggesting that this difference is statistically significant. Therefore, we reject the null hypothesis in favor of the alternative hypothesis.
+
+However, for the standard deviation of Toto values, the t-statistic is not significant, as the p-value is greater than 0.05. Therefore, we fail to reject the null hypothesis, indicating that there's no significant difference in the standard deviation of Toto values between draws with and without first prize winners.
 
 </details>
 
