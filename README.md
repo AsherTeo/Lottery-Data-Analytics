@@ -107,11 +107,11 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 **Total values vs jackpot chances**
 
-|                   | p-values |  
-|-------------------|-----------|
-| Sum                 | 0.01096054	 |
-| Average             | .01096054	 | 
-| Standard Deviation  |0.5925751  | 
+|                   | T-Statistic | p-values |  
+|-------------------|------------|-----------|
+| Sum               |  -2.5592709 | 0.01096054	 |
+| Average           |  -2.5592709 | .01096054	 | 
+| Standard Deviation | -0.5356601 |0.5925751  | 
 
 For the sum and average of Toto values, the t-statistics indicate a significant difference between draws where the first prize was won and draws where it wasn't. The p-values are less than the significance level of 0.05, suggesting that this difference is statistically significant. Therefore, we reject the null hypothesis in favor of the alternative hypothesis.
 
