@@ -127,6 +127,8 @@ Conversely, the t-statistic for the standard deviation of Toto values is not sta
 
 By the year 2023, there were the most occurrences of 55. In terms of months, January had the highest count, with 19 instances. Lastly, when considering individual days, Monday stood out with a total count of 76.
 
+January tends to have the highest number of winners due to the fact that grand prizes, often ranging from 5 million to 10 million, are frequently scheduled for January, coinciding with events such as New Year's and Chinese New Year. Furthermore, these grand prize draws commonly occur on Fridays.
+
 **8)** **Correlation among winning numbers (Mann-Whitney U)**:
 
 **Null Hypothesis (H0)**: There is no significant difference in the distributions of winning numbers between any two pairs.
