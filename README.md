@@ -10,7 +10,7 @@ Welcome to the lottery data analysis project focusing on Toto, a popular lottery
 
 The data is extracted from the official Singapore Pools [website](https://www.singaporepools.com.sg/en/product/Pages/toto_results.aspx) using `Selenium`, a web scraping tool. Then, we preprocess the data to extract relevant features such as winning numbers, draw dates, and additional information. We utilize **Python**, along with libraries such as `Pandas` and `Seaborn`, to conduct our analysis and gain insights from the Toto data. 
 
-Moreover, we utilize `scipy` for statistical tests like the **t-test** and **Mann-Whitney U** test. These tests allow us to compare distributions of numerical features between different groups, aiding in our exploration of whether smaller sum, average, and standard deviation of Toto values are associated with better chances of winning the jackpot.
+Moreover, we utilize `scipy` for statistical tests like the **t-test** and **Spearman's rank correlation** test. These tests allow us to compare distributions of numerical features between different groups, aiding in our exploration of whether smaller sum, average, and standard deviation of Toto values are associated with better chances of winning the jackpot.
 
 Additionally, we've enhanced our analysis by building an interactive dashboard using **Power BI**. This dashboard provides a fun and engaging way for our audience to interact with the Toto data, similar to the experience of being in a casino. Inspired by casino games like roulette, where players can view statistics on red and black winning rates or the last 10 numbers, our dashboard offers dynamic visualizations and statistics on Toto draws. It allows users to explore trends, patterns, and insights in an interactive and entertaining manner.
 
@@ -55,7 +55,7 @@ Additionally, we've enhanced our analysis by building an interactive dashboard u
  
 4) **Data Analysis**: For data analysis, utilize `Seaborn` to visualize number distribution, correlations, and consecutive number pairs' frequencies in winning combinations.
   
-5) **Statics Analysis**: Additionally, we leverage scipy for statistical tests like the `t-test` and `Mann-Whitney U` test to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
+5) **Statics Analysis**: Additionally, we leverage scipy for statistical tests like the `t-test` and `Spearman's rank` correlation to compare distributions of numerical features between different groups, providing valuable insights into lottery patterns and trends.
 
 6) **Interactive Dashboard**: The interactive Power BI dashboard facilitates analysis of hot and cold numbers, sortable by date, with hot numbers highlighted in red and cold numbers in blue for easy identification. Users can further refine their analysis by filtering for odd or even numbers and customizing the range of 10 to explore specific number pattern
 
@@ -129,13 +129,11 @@ By the year 2023, there were the most occurrences of 55. In terms of months, Jan
 
 January tends to have the highest number of winners due to the fact that grand prizes, often ranging from 5 million to 10 million, are frequently scheduled for January, coinciding with events such as New Year's and Chinese New Year. Furthermore, these grand prize draws commonly occur on Fridays.
 
-**8)** **Correlation among winning numbers (Mann-Whitney U)**:
+**8)** **Correlation among winning numbers (Spearman's rank correlation)**:
 
-**Null Hypothesis (H0)**: There is no significant difference in the distributions of winning numbers between any two pairs.
+![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/b577f073-7646-479b-ac09-57b49bb73728)
 
-**Alternative Hypothesis (H1)**: There is a significant difference in the distributions of winning numbers between at least one pair.
 
-![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/e35289a7-7482-4e45-a0e8-876df95bb84a)
 
 
 </details>
