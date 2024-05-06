@@ -143,15 +143,11 @@ The heatmap indicates some correlations between pairs of winning numbers, partic
 
 ## Installation
   
-<details>
-  <summary>Installation</summary>
-  
 The code is developed using Python version 3.10.14  If Python is not already installed on your system, you can download it [here](https://www.python.org/downloads/). If your current Python version is lower than 3.10.14  you can upgrade it using the pip package manager. Make sure you have the latest version of pip installed. To install the necessary packages and libraries, execute the following command in the project directory after cloning the repository:
 
 ```bash
 pip install -r requirements.txt
 ```
-  </details>
 
 ## Lottery Analysis Dashboard 
 
