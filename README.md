@@ -105,7 +105,7 @@ The top 5 3-grams are **(28,31,37), (24,26,28), (16,17,20), (31,32,33)**, and **
 
 ![image](https://github.com/AsherTeo/Lottery-Data-Analytics/assets/78581569/07bbb396-8891-4db5-a71c-c842c3b5480a)
 
-**##Total values vs jackpot chances**
+**Total values vs jackpot chances**
 
 |                   | p-values |  
 |-------------------|-----------|
